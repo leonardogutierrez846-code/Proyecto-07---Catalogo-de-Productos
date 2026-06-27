@@ -202,21 +202,3 @@ wip         -> rama de trabajo con al menos 5 commits
 development -> rama final creada desde wip cuando el proyecto esté terminado
 ```
 
-Commits sugeridos:
-
-```bash
-git add .
-git commit -m "Configura proyecto multi-modulo con Maven"
-
-git add .
-git commit -m "Implementa Product Service con CRUD"
-
-git add .
-git commit -m "Implementa Inventory Service con RestClient"
-
-git add .
-git commit -m "Configura API Gateway y rutas"
-
-git add .
-git commit -m "Agrega Docker Compose y documentacion README"
-```
