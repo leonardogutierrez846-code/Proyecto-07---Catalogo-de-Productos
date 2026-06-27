@@ -194,11 +194,3 @@ Ejemplos de uso durante el desarrollo:
 
 Uno de los principales retos fue configurar correctamente la comunicación entre microservicios, ya que Inventory Service depende de Product Service para enriquecer la respuesta del inventario. También fue importante configurar correctamente las rutas del API Gateway y las variables de entorno para que el proyecto funcionara tanto de forma local como con Docker Compose.
 
-## Ramas sugeridas para GitHub
-
-```text
-main        -> README inicial creado por GitHub
-wip         -> rama de trabajo con al menos 5 commits
-development -> rama final creada desde wip cuando el proyecto esté terminado
-```
-
